@@ -269,6 +269,11 @@
   },
   "active": "dc8853b0488c84fb",
   "lastOpenFiles": [
+    "code/uv.lock",
+    "code/pyproject.toml",
+    "code/neural_networks_tutorial.md",
+    "code/README.md",
+    "code",
     "README.md",
     "CNN.md",
     "RNN.md",

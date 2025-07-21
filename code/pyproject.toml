@@ -1,0 +1,16 @@
+[project]
+name = "learning-pytorch"
+version = "0.1.0"
+description = "Learning pytorch "
+authors = [
+  { name = "Your Name", email = "you@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+  "torch",
+  "torchvision",
+  "torchaudio",
+  "matplotlib>=3.9.4",
+]
