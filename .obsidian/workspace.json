@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "782a31997322ec73",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2420bc7208ae42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b7b1975e03145c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60 Minute Blitz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "60 Minute Blitz"
+            }
+          },
+          {
+            "id": "e50a1d209f686553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60 Minute Blitz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "60 Minute Blitz"
+            }
+          },
+          {
+            "id": "e2a77c22fc21f750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definitions"
+            }
+          },
+          {
+            "id": "c1ca98d2fca8a3b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definitions"
+            }
+          },
+          {
+            "id": "81025e1e9535946f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Specific Stuff/Bare Bones NN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bare Bones NN"
+            }
+          },
+          {
+            "id": "ac0d6887d67c6498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60 Minute Blitz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "60 Minute Blitz"
+            }
+          },
+          {
+            "id": "bd7ba40136e1e379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CNN"
+            }
+          },
+          {
+            "id": "dc8853b0488c84fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RNN"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c1b51d0f43011a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "18c28da3f8e50709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "befb433d1c43b4a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b6ac941811aa011a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c70872a698b6066",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b87f493f8a8239b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2342cbac5cb28c76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa0cbbd5e84e8faf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RNN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RNN"
+            }
+          },
+          {
+            "id": "f3e83e0e457db212",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RNN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RNN"
+            }
+          },
+          {
+            "id": "5284cb39d06dff17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8a03022fef89c72a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RNN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RNN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dc8853b0488c84fb",
+  "lastOpenFiles": [
+    "README.md",
+    "CNN.md",
+    "RNN.md",
+    "60 Minute Blitz.md",
+    "NN Architecture Table.md",
+    "Definitions.md",
+    "Starter Docs.md",
+    "Python Specific Stuff/Bare Bones NN.md",
+    "Python Specific Stuff/Intro to numpy.md",
+    "Python Specific Stuff",
+    "Python Specific Stuff/Autograd in Pytorch.md",
+    "neural_networks_tutorial 1.py",
+    "neural_networks_tutorial.py",
+    "Images/mnist.png",
+    "Images"
+  ]
+}
