@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "Links"
             }
+          },
+          {
+            "id": "c62c160a4eb1e63e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RNN/NLP From Scratch Classifying Names with a Character-Level RNN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NLP From Scratch Classifying Names with a Character-Level RNN"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -281,34 +295,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f83583b16faa611",
+  "active": "c62c160a4eb1e63e",
   "lastOpenFiles": [
-    "Definitions.md",
+    "code/training/training_iter_3/confusion_matrix_3.png",
+    "code/training/training_iter_3/training_time_3.txt",
+    "code/training/training_iter_3/training_loss_entropy_3.png",
+    "code/training/training_iter_3/training_validation_ratio_3.txt",
+    "code/training/training_iter_3/rnn_info_3.txt",
+    "code/training/training_iter_3",
+    "code/training/training_iter_2/confusion_matrix_2.png",
+    "code/training/training_iter_2/training_time_2.txt",
+    "code/training/training_iter_2/training_loss_entropy_2.png",
+    "code/training/training_iter_2/training_validation_ratio_2.txt",
+    "code/training/training_iter_2/rnn_info_2.txt",
+    "code/training/training_iter_2",
+    "code/training/training_iter_1/training_info_1.txt",
+    "code/training/training_iter_1/confusion_matrix_1.png",
+    "code/training/training_iter_1/training_time_1.txt",
+    "code/training/training_iter_1/training_loss_entropy_1.png",
+    "code/training/confusion_3.png",
+    "code/training/training_loss_entropy_3.png",
+    "code/training/confusion_2.png",
+    "code/training/training_2.png",
+    "code/training/training_1_confusion.png",
     "RNN/Links.md",
+    "RNN/NLP From Scratch Classifying Names with a Character-Level RNN.md",
+    "RNN/h_t = tanh(W_hh * h_{t-1} + W_xh * x_t).md",
+    "Definitions.md",
     "Cross Entropy Loss.md",
     "softmax_crossentropy_obsidian.md",
-    "Images/house_generate.gif",
-    "RNN/h_t = tanh(W_hh * h_{t-1} + W_xh * x_t).md",
     "60 Minute Blitz.md",
     "README.md",
     "Neural Network Overview Table.md",
-    "CNN",
-    "RNN",
-    "Images/rnn_sequence.jpeg",
-    "code/uv.lock",
-    "code/pyproject.toml",
     "code/neural_networks_tutorial.md",
     "code/README.md",
-    "code",
     "CNN/CNN.md",
     "Starter Docs.md",
     "Python Specific Stuff/Bare Bones NN.md",
     "Python Specific Stuff/Intro to numpy.md",
-    "Python Specific Stuff",
-    "Python Specific Stuff/Autograd in Pytorch.md",
-    "neural_networks_tutorial 1.py",
-    "neural_networks_tutorial.py",
-    "Images/mnist.png",
-    "Images"
+    "Python Specific Stuff/Autograd in Pytorch.md"
   ]
 }

@@ -13,4 +13,5 @@ dependencies = [
   "torchvision",
   "torchaudio",
   "matplotlib>=3.9.4",
+  "ipykernel>=6.30.0",
 ]
