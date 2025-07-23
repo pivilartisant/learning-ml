@@ -6,5 +6,5 @@ CharRNN(
   (softmax): LogSoftmax(dim=1)
 )
 n_epoch = 40
-learning_rate = 0.01
+learning_rate = 0.1
 n_batch_size = 64
