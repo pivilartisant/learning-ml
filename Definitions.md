@@ -49,6 +49,13 @@ A scalar value that quantifies the difference between the model’s predicted ou
 # **Gradient**: 
 The partial derivative of the loss function with respect to each model parameter (e.g., weights and biases). It indicates the direction and magnitude of change needed for each parameter to minimize the loss. Gradients are computed via **backpropagation** and used by optimization algorithms (e.g., SGD, Adam) to update parameters.
 
+---
+# **Learning Rate** 
+is a **hyperparameter** that controls how much a model’s weights are adjusted during training in response to the estimated error (loss).
+
+[See Learning Rate Scheduler](https://towardsdatascience.com/a-visual-guide-to-learning-rate-schedulers-in-pytorch-24bbb262c863/)
+
+
 ----
 # **Forward Propagation**:
 In forward prop, the NN makes its best guess about the correct output. It runs the input data through each of its functions to make this guess.
